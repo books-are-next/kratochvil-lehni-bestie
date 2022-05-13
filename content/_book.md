@@ -1,36 +1,41 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
-chapters:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  title: Lehni, bestie!
+  identifier: urn:uuid:296c0919-9963-415a-a386-6c26c077b931
+  author: Jiří Kratochvil
+  publisher: Městská knihovna v Praze
+  modified: '2021-06-29T00:00:00.000Z'
+readingOrder:
+  - promo.html
+  - lehni_bestie_001.html
+  - lehni_bestie_002.html
+  - lehni_bestie_003.html
+  - lehni_bestie_004.html
+  - lehni_bestie_005.html
+  - lehni_bestie_006.html
+  - lehni_bestie_007.html
+  - lehni_bestie_008.html
+  - lehni_bestie_009.html
+  - lehni_bestie_010.html
+  - lehni_bestie_011.html
+  - lehni_bestie_012.html
+  - lehni_bestie_013.html
+  - lehni_bestie_014.html
+  - lehni_bestie_015.html
 tocBase:
-  - link: where-i-lived-and-what-i-lived-for.html
-    title: Where-i-lived-and-what-i-lived-for
-    numberedChildren: true;
-    children:
-      - link: reading.html
-        title: Reading
-      - link: sounds.html
-        title: Sounds
-  - link: solitude.html
-    title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - favicon.png
 ---
