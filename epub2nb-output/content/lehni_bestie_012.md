@@ -9,14 +9,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Napřed se náš kamion zmítal a poskakoval mezi stromy na cestách necestách (v tom zřejmě ohrazeném vojenském pásmu) a slyšel jsem, jak děti tam v nákladním prostoru padají na sebe, otloukají se o stěny a srážejí hlavičkami, ale ani jednou nefňukly a nezabrečely. A zas se přiznám: byl jsem na ně svým způsobem hrdý.
 
 A pak jsme nejspíš přijeli k nějaké strážní budce při výjezdu z hlídaného vojenského pásma. A když o tom teď zpětně uvažuju, napadá mě, že Studna se pravděpodobně nacházela někde hluboko v šumavských hvozdech, tam, kde ještě na počátku padesátých let oddechovaly husté, netknuté lesy skrývající nejedno tajemství, střežené ostrými vlčáky, samopaly a zátarasy.

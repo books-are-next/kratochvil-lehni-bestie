@@ -9,14 +9,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Toho dne, kdy můj příběh začal, jsem bohužel nebyl varován nejmenší předtuchou, naprosto ničím, co by se na mé soukromé obloze zjevilo jako zlé znamení. A jistě, proč taky? Nikdo tam zvenku nemá přece povinnost nás varovat, když náš vnitřní gyroskop neplní tuhle funkci, když rozum, cit a intuice nás nechají ve štychu. A to se nepochybně stalo. Den, do kterého jsem vkročil, se mi jevil jako každý jiný a od rána jsem neměl pocit, že by tomu mělo být jinak. Tak kolikrát to ještě budu opakovat? Snad bych měl místo toho povědět napřed něco o sobě. Ach ano, dámy a pánové, kteří mi nasloucháte v tom němém zástupu shromážděném v mém nitru, nemohu totiž také popřít, že hned na počátku sehrála svou ošklivou roli také má povaha, mé přesvědčení o tom, že jsem výjimečný tvor. A tím začnu. Výborně, čekáte, nedutáte, mohu?
 
 Jsem z té nejobyčejnější rodiny, jaká kdy po světě pobíhala. Můj otec byl prodavačem v drogerii, matka sedávala u okénka na poště. Vychovávali mě tak polovičatě jako v té době většina rodičů. To jest, neřekli mi nikdy ani slovo proti režimu, co nám tenkrát vládl, a přitom jsem na nich moc dobře viděl, jak je ten režim dusí anebo jak s nimi mává. Byli to normální malí lidičkové, kteří chtěli prostě žít ten normální malý lidičkovský život a nemohli vůbec za to, že i na ně spadla kredenc totálně zblblé historie.
@@ -177,8 +169,8 @@ Nahoře dosti veliká plošina, z jedné strany krytá skalní zídkou, ožehnu
 
 Pak jsme tam seděli a zpívali staré skautské písničky, ale především tu o ohni:
 
-Červená se line záře,  
-óóheň, óóheň, óóheň…
+_Červená se line záře,  
+óóheň, óóheň, óóheň…_
 
 A slovo oheň (ozvláštněné nekonečně prodlužovanou první slabikou a raženým přízvukem na slabice druhé) jsme stále znova vykřikovali do noci, až to znělo jako vzývání jakéhosi božstva, a jednu chvíli jsme se už všichni drželi kolem ramen a lehounce se kývali. Vypadalo to, že to nikdy neskončí.
 

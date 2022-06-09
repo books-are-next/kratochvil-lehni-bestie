@@ -9,19 +9,9 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Tma.
 
 Dlouho jenom tma.
-
-  
 
 Ležel jsem v té tmě a bál se pohnout, protože jsem nevěděl, co se mnou je a kde to jsem. Pumpoval jsem víčkama nahoru dolů, ale ta tma byla ke mně přirostlá. Myšlenka, že se mi to jenom zdá, nebyla už dlouho udržitelná.
 
@@ -383,4 +373,4 @@ Vůz (nejspíš kamion) se dal do pohybu a za svými zády jsme nechali Studnu,
 
 * * *
 
-[1](./resources/undefined) V textu parafráze několika vět z románu Jerzyho Andrzejewského Brány ráje. Pozn. autora.
+_[1](./resources/undefined) V textu parafráze několika vět z románu Jerzyho Andrzejewského _Brány ráje_. _Pozn. autora_._
