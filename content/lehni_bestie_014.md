@@ -9,14 +9,6 @@ contentType: prose
 
   
 
-  
-
-  
-
-  
-
-  
-
 Právě jsem přistál na ruzyňském letišti a stojím teď v řadě na pasovou kontrolu, postarší Američan, na jehož vzhledu, ale i každém pohybu je už na první pohled znát, že se nejspíš narodil v rodině nějakého bohatého podnikatele, který mohl například vlastnit dlouhý sled autoopraven na východním pobřeží, jmenuji se Franklin Jones, absolvent těch nejlepších univerzit, jenž si už ale taky stačil nadělat vlastní majetek na vývoji první řady cestovních laptopů, a to prosím ještě v čase, kdy vůbec nebylo jasné, že počítače je možné úspěšně přemístit z pracovních stolů na kolena pasažérů ve vlacích, autobusech, lodích…
 
 Úřednice mi vrací pas a Franklin Jones (ale vy mi smíte říkat Franku!) vstupuje do haly, provázen nosičem, který se stará o jeho objemné zavazadlo, jsem poprvé na půdě svobodného Česka (což zní, jako když pohůnek volka pleská!) a Franklin Jones, pardon, Frank, je z toho, vida, tak trochu nejistý v kramflecích (říká se to tak?), vyjdu před halu a vrhnu napřed pohled do vzdálenějšího okolí, na vody, co hučí po lučinách, na bory, co šumí po skalinách, ale hned potom ráčíme zúžit zorný úhel na taxík, k němuž už spěchá můj nosič, a Frank Jones se nechá dovézt k jednomu z nejluxusnějších pražských hotelů, ano, zlatíčka, je to hotel U Žito kouzelníka, přímo na nábřeží stříbropěnné (anebo ať nežeru: zlatopěnné) Vltavy.
@@ -123,7 +115,7 @@ Vrátil jsem se do New Yorku s pocitem, že to byla naprosto zbytečná cesta. 
 
 Ale tentokrát to kupodivu fungovalo. Jen co jsme přistáli v Ruzyni a udělal jsem první kroky z letištní haly, to vyprávění se ve mně samo rozběhlo a našel jsem svůj příběh:
 
-Toho dne, kdy můj příběh začal, jsem bohužel nebyl varován nejmenší předtuchou, naprosto ničím, co by se na mé soukromé obloze zjevilo jako zlé znamení. A jistě, proč taky? Nikdo tam zvenku nemá přece povinnost nás varovat, když náš vnitřní gyroskop neplní tuhle funkci, když rozum, cit a intuice nás nechají ve štychu…
+_Toho dne, kdy můj příběh začal, jsem bohužel nebyl varován nejmenší předtuchou, naprosto ničím, co by se na mé soukromé obloze zjevilo jako zlé znamení. A jistě, proč taky? Nikdo tam zvenku nemá přece povinnost nás varovat, když náš vnitřní gyroskop neplní tuhle funkci, když rozum, cit a intuice nás nechají ve štychu…_
 
 A komu že jsem to vyprávěl? No přece těm porotcům, co sedí ve mně, co sedí v každém z nás, pokud jste je ještě nevyštvali, těm neúplatným, co posuzují naše činy, ať už se nám to líbí či ne.
 
@@ -261,6 +253,6 @@ Dojím, sundám ubrousek a drbnu pod stolem do malé psí mrchy (vstávej, best
 
 * * *
 
-[2](./resources/undefined) Každému je určen jeho den. Pozn. red.
+_[2](./resources/undefined) Každému je určen jeho den. _Pozn. red.__
 
-[3](./resources/undefined) Citát z Nezvalova překladu Rimbaudovy básně Román. Pozn. autora.
+_[3](./resources/undefined) Citát z Nezvalova překladu Rimbaudovy básně _Román_. _Pozn. autora.__
