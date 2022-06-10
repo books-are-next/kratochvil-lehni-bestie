@@ -3,17 +3,21 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Toho dne, kdy můj příběh začal, jsem bohužel nebyl varován nejmenší předtuchou, naprosto ničím, co by se na mé soukromé obloze zjevilo jako zlé znamení. A jistě, proč taky? Nikdo tam zvenku nemá přece povinnost nás varovat, když náš vnitřní gyroskop neplní tuhle funkci, když rozum, cit a intuice nás nechají ve štychu. A to se nepochybně stalo. Den, do kterého jsem vkročil, se mi jevil jako každý jiný a od rána jsem neměl pocit, že by tomu mělo být jinak. Tak kolikrát to ještě budu opakovat? Snad bych měl místo toho povědět napřed něco o sobě. Ach ano, dámy a pánové, kteří mi nasloucháte v tom němém zástupu shromážděném v mém nitru, nemohu totiž také popřít, že hned na počátku sehrála svou ošklivou roli také má povaha, mé přesvědčení o tom, že jsem výjimečný tvor. A tím začnu. Výborně, čekáte, nedutáte, mohu?
+
+</section>
+
+<section>
 
 Jsem z té nejobyčejnější rodiny, jaká kdy po světě pobíhala. Můj otec byl prodavačem v drogerii, matka sedávala u okénka na poště. Vychovávali mě tak polovičatě jako v té době většina rodičů. To jest, neřekli mi nikdy ani slovo proti režimu, co nám tenkrát vládl, a přitom jsem na nich moc dobře viděl, jak je ten režim dusí anebo jak s nimi mává. Byli to normální malí lidičkové, kteří chtěli prostě žít ten normální malý lidičkovský život a nemohli vůbec za to, že i na ně spadla kredenc totálně zblblé historie.
 
 Já jsem ovšem tenkrát přece jenom jaksi vyčuhoval z té obyčejnskosti a lhal bych, kdybych teď tvrdil, že jsem si toho nebyl vědom. Naopak, ukažte mi někoho druhého, kdo si toho byl takhle jako já vědom! Vynikající žák a přitom vůbec žádný šprt. Nemusel jsem se skoro učit a znal jsem. A bylo to dokonce v té nebezpečné poloze, že jsem přiváděl své učitele a učitelky do úzkých, s potěšením jsem je tlačil ke zdi otázkami, na něž jsem měl ještě hodně dlouho čas. A vlastně právě to se stalo mým neštěstím. Přesně tak, byl jsem moc rád nápadný a právě to rozhodlo. Cosi mě, dá se říct, potrestalo za mou zpupnost. Trest jistě neúměrný provinění, vždyť bylo to, jako když se v muslimských zemích trestávalo za krádež useknutím ruky a za cizoložství pohřbením zaživa. Ale co chcete, na tomhle světě není spravedlnosti: buď vám všechno beztrestně projde, anebo se ta kurvička se šátkem na očích zjančí a ukope vás k smrti. Takže vás chci při té příležitosti požádat: pokuste se aspoň vy být spravedliví. Jste mí porotci sedící tam vevnitř, hluboko ve mně (promiňte, že vám tam nemohu zapnout klimatizaci anebo aspoň otevřít okna), tak zhlédněte na můj příběh nemilosrdně, ale spravedlivě.
+
+</section>
+
+<section>
 
 Však neměl bych před tím, než to všechno rozjedu předvést, jak jsem žil až do toho jiného dne? Čekáte ode mě zajisté fantastické příhody, možná přímo cestu peklem a útěk v poslední chvíli po vysokohorských serpentinách a za prapodivných okolností, které to všechno provázely, a na mou čest, že se vám čehosi podobného dostane, ale slušelo by se možná vylíčit vám předtím taky jeden takový obyčejnský den, jak jich do mých třinácti let běžela nekonečná řada. Fajn, dohodneme se, že uděláme kompromis. Ukážu vám například, jak jsme doma snídávali, tedy takový kratičký výsek dne. A zvolím si k tomu ráno, kdy se přece jenom stalo cosi, co jsem si později se svým příběhem spojil. I když to s ním možná vůbec nesouviselo. Tudíž opakuji, nebyla to žádná předtucha, protože když se to stalo, nepřikládal jsem tomu nejmenší význam.
 
@@ -35,6 +39,10 @@ Dívám se z okna. Přes ulici, také v poschodí jak náš byt, je taneční 
 
 Otec srká kávu, náramkové hodinky položeny vedle šálku, aby si hlídal čas, a ještě rychle povídá mámě, jak včera železem páčil bedny, co mu přivezli do drogerie, a představ si, Hanko, že to byly náhradní díly k nějaké fréze, a ještě si představ, že to ani nechtěli odvézt, prý dokud nedostanou příkaz. A tak jsem musel telefonovat asi na padesát míst… Máma oddaně mlčí a za okno nýčko usedá holub a hlasitě cosi zobe z plechu.
 
+</section>
+
+<section>
+
 A o tři týdny později to už začalo. Jen hluchý a slepý by nic neslyšel a neviděl, jenže já jsem, dámy a pánové, byl na začátku tohoto příběhu dočista hluchý a slepý. Nebyl jsem schopen a vlastně ani ochoten vnímat nástup toho všeho, co pak otřáslo mým životem a postavilo ho na hlavu, a šel jsem tomu vstříc jak tupohlavá ovce.
 
 A tak ještě jednou a naposledy: den, do kterého jsem vkročil, se mi jevil jako každý jiný a od rána jsem neměl pocit, že by tomu mělo být jinak. Ale přece jenom, ve škole se něco zvláštního dělo. Člověk tady ovšem není po ránu od toho, aby pozoroval potrhlé chování svých kantorů, protože hned po ránu má spoustu práce s opisováním úloh. Já se sice snadno učil, jak jsem už poznamenal, ale právě na to jsem hřešil a opovrhoval tím dělat si úlohy doma.
@@ -54,6 +62,10 @@ Pohov, volno, posaďte se, řekl hned poté vlídně jeden z generálů. Gener�
 Není vyššího poslání než vojenské, ujistil nás. V každém z vás je ukrytý voják jak socha v balvanu, jen ho vytesat. Vaše matky, manželky i milenky – obracel se k nám, třináctiletým klukům – budou jednou hrdy, že jste připraveni položit životy. A protože každé armádě musí někdo velet, my jsme si dnes přišli vybrat mezi vámi budoucí generály a maršály. A vybrané subjekty absolvují vojenské školy a jednou si obléknou tyhle krásné uniformy a nazují tyhle parádní holinky. A ukázal na svého generálského kolegu a kolegyni a ti se prošli po třídě jak na módní přehlídce. A teď se pod velením vašeho třídního učitele seřadíte a děvčata zůstanou ve třídě a chlapci odejdou do tělocvičny.
 
 A pak se generál otočil vlevo v bok a s tím druhým generálem a generálicí odkráčeli. A když už byli v otevřených dveřích, třídní se vzpamatoval a znova zapištěl: Pozor!
+
+</section>
+
+<section>
 
 Tělocvična se rozkládá pod celou školou a za války sloužila jako kryt pro obyvatele přilehlých ulic. Třída, která tam měla hodinu tělocviku, se cítila vždycky ztracena na těch obrovských parketách, při jejichž leštění vypustilo už několik školníků duši. Ale když jsme tam toho dne sestupovali po širokém schodišti, hleděli jsme na prapodivný výjev. Všechno bylo organizováno na vojenský způsob a prostora tělocvičny byla náležitě využita. Generálové si ji totiž rozdělili do tří částí, doslova naporcovali. V té první seděla generálice, kolem krku stetoskop, který si každou chvíli nasazovala rozdvojkou na uši a pak zas zavěsila zpátky na krk. Vedle generálice stálo na štokrdleti umývadlo a v kapsičce blůzy měla zelenou křídu. A pod schodištěm dlouhá lavice a na ní všechno začínalo. Tam se všichni museli svléct, krasopisně odložit na lavici a nazí jak stažení králíčci napochodovat ke generálici, která každého zevrubně prohlédla a prohmatala rukama i stetoskopem a na závěr každému zmáčkla pytlík, až zakvikl, zkusila odhrnout předkožku, aby se přesvědčila, jestli netrpí fimosou, a otočila si ho jak kobylku a strčila mu prst do konečníku, pak si umyla ruce, utřela a sáhla do kapsičky pro křídu a každému chlapci namalovala na čelo buď kolečko, anebo trojúhelníček. A označení se přesunuli k prvnímu generálovi.
 
@@ -80,6 +92,10 @@ Ale vás by asi taky zajímalo, jak jsem odpověděl na tu generálovu hádanku.
 Tak se nám někdy zdá, že čas plyne neskonale pomalu a že už to snad ani není ta nejlínější řeka, nýbrž nehybný, šáším zarůstající rybník. A tenhle pocit jsem měl po celý zbytek toho mého posledního školního roku. A samozřejmě jsem se mýlil. Můj osud byl už dávno připraven a teď už jen kdesi za dveřmi čekal, až bude chvíle vejít. Protože to nejzákeřnější vždycky chvíli čeká, než udeří.
 
 Napřed jsem si myslel, že i já skončím na nějaké vojenské škole. Jistěže pro maršály a generalissimy, protože já bych se už jen s nějakou takovou pro obyčejnské generály nespokojil. To, co bylo dobré pro mé spolužáky, nemohlo být už dobré pro mě. Se mnou se přece, což mi bylo hned jasné, počítá do těch naprosto nejvyšších šarží. A nemýlil jsem se. To, co se pro mě připravovalo, bylo cosi řádově absolutního. Jestli mi teď rozumíte. Nerozumíte. Neva. Vždyť ani já jsem do poslední chvíle (v té své hloupé netrpělivosti) nerozuměl.
+
+</section>
+
+<section>
 
 A bylo tady poslední léto před mým zmizením. A bylo svým způsobem nejkrásnější, nejmodřejší, nejslunnější a ach nejkouzelnější, totiž podle zákona kontrastu, protože to, co pak rychle následovalo, mě na dlouhý čas připravilo o slunce, oblohu a ten širý prostor, v němž jsem směl mít pocit, že stačí rozevřít doširoka ruce a nějak takhle obejmu celý vesmír.
 
@@ -123,6 +139,10 @@ Ale vraťme se do Sluk těch posledních krásných slunných dnů.
 
 Ráno jsme posnídali, všechna čest babici, krajíce s báječným husím sádlem, a máma s otcem šli brouzdat po houbonosných lesích a já běžel dát do kupy svou klukovskou partu.
 
+</section>
+
+<section>
+
 Desátý den našeho pobytu se přihnala nad Sluky ale opravdu parádní bouřka. Už když se obloha zatáhla tak, že teatrálně napodobila i samo zatmění slunka a neviděli jsme ani vlastní ruku rozevřenou před očima, všichni mí stateční apačové i mí loupeživí desperáti se fryško utíkali schovat pod sukně svých mátinek. Zůstal jsem sám, a tak jsem si vytáhl festovní kuchyňskou židli pod přístřešek před barákem.
 
 Co blbneš? Na co tady míníš čekat? podivil se otec. Pravil jsem, že na gala představení a že už jsem si zaplatil vstupné a nemíním o to přijít. Otec zavrtěl hlavou, trochu už navyklý na mé výstřednosti, a nechal mě být. Dokonce to nějak vysvětlil i mámě, takže mě už nikdo nepřišel vytrhnout z těch radovánek. A bouřka pak byla, dámy a páni, tak pompézní, jako kdyby o nebesa sváděly boj dvě mocné vodní říše. Blesky se splétaly jak Laokoónovi hadi, s náramným hlomozem padaly trakaře, a přestože jsem si přirazil židli až úplně ke zdi, i tam mě každou chvíli olízla mlsná vlna rozkaceného živlu a pak se černá opona na obloze hlučně a napříč roztrhla a jednu chvíli jsem měl pocit, že tam nahoře vidím obrovský stín dirigenta operního orchestru. Mám takové podívané z hloubi duše rád. A nevypovídá to cosi o mé povaze? Co říkáte?
@@ -137,6 +157,10 @@ A tak, když jsem se jich během toho posledního léta nemohl dočkat, vypravi
 
 Takže o to víc jsem byl potěšen, když se pak přece jenom objevili.
 
+</section>
+
+<section>
+
 Ten jedenáctý den, hned ten den po bouřce, si pro mě přijeli. Málem jsem radostným leknutím spolkl lžíci. Zastavili totiž ten svůj džíp zrovna pod oknem světnice, kde jsme zrovna seděli u oběda. A jestli jsme se dřív setkávali náhodně někde ve Slukách, tentokrát si mě přijeli vyzvednout a omluvili se mým rodičům, že mě na chvilku vytáhnou na výlet.
 
 To je Luděk a to je Pamela, představil jsem je.
@@ -146,6 +170,10 @@ Pamela, kroutil otec hlavou, takové jméno jsem ještě neslyšel.
 Jsem z Banské Štiavnice a tam je nás Pamel, joj, celá kopa.
 
 Ano, tak je to, styděl jsem se za své rodiče. A bylo to na mně znát. Ale sotva jsme nasedli do džípu, řekl mi Luděk, víš, ty jsi jablko, co padlo daleko od stromu. Daleko padlo a ještě se dlouho kutálelo. Kývl jsem, že rozumím. A stud se hned ve mně rozpustil. A co vy na to? mí ctihodní posluchači a urozené posluchačky.
+
+</section>
+
+<section>
 
 A byl to ten nejdelší výlet, na jaký mě kdy pozvali. A jeli jsme celou cestu podél Sázavy, která se chvílemi klikatila hluboko pod námi a pak nám zas vyběhla vstříc (až nám voda, přece jen trochu vze­dmutá po včerejším lijáku, cákla na kapotu) a řeka chvílemi temněla a chvílemi se zas rozžínala a nadjížděli jsme si ji velkým obloukem, vzdalovali se a zas se rychle vraceli, sjížděli jsme z cest do polí, hned zasraní blátem, a prohnali se vesničkami s velkými stodolami a malými kostelíky a vyletěli na kopec, odkud byl fantastický rozhled (tam, natáhl Luděk ruku, to už je Praha, vodojem v Karlině), a pak jsme zas serpentinami, jak čiperný šroub šroubovicí, sletěli dolů, až nás při řece zastihlo letní šírání.
 
@@ -157,11 +185,19 @@ Víš co je to bar micva? zeptal se mě Luděk, zatímco jsme jeli těsně při 
 
 Moc mi nebylo jasné, co mi to proboha říká a proč mi to říká, až teprve mnohem později, až zas z velkého odstupu, mi došlo, že ten věk, ten osudový věk, kterému se hebrejsky říká bar micva (což znamená „syn příkazu“), taky hrál svou roli, když si mě vybírali. Musel jsem být právě v tomhle věku, abych byl už schopen toho, co se po mně bude chtít. A dnes už pochopitelně vím, že mnohem raději bych byl tím obyčejnským buranem, který projde životem a vůbec nic nepochopí, než jít znova vstříc tamtomu osudu. Tak dost! Ne tak rychle! Opravdu to vím? Skutečně si to myslím?
 
+</section>
+
+<section>
+
 Byla to dlouhá cesta, v poledne mě vyzvedli a vrátili s velkými omluvami až pozdě večer.
 
 A nejen, že jsme vám skoro na celý den unesli syna, usmíval se Luděk, ale ještě bychom si ho moc rádi půjčili taky na zítřejší večer. A jestli můžeme být tak smělí, pozvali bychom i vás k táboráku, kterým se zítra budem loučit s tímhle krajem.
 
 Máma se podívala na otce a ten jako by to chvíli zvažoval, neboť chtěl vždycky vypadat jako člověk uvážlivý a soudný, ale pak řekl: Dobrá, berem, ale ať vám tady ten náš pacholek pomůže se sbíráním dřeva a klestí na táborák.
+
+</section>
+
+<section>
 
 Té skále, na níž jsme si nanosili dříví a narovnali hranici, se říkalo Mléčný zub. Byla kilometr za vesnicí a to děcko, jehož mléčným zubem skála mohla být, bych si teda netroufl zpohlavkovat.
 
@@ -174,20 +210,38 @@ _Červená se line záře,
 
 A slovo oheň (ozvláštněné nekonečně prodlužovanou první slabikou a raženým přízvukem na slabice druhé) jsme stále znova vykřikovali do noci, až to znělo jako vzývání jakéhosi božstva, a jednu chvíli jsme se už všichni drželi kolem ramen a lehounce se kývali. Vypadalo to, že to nikdy neskončí.
 
+</section>
+
+<section>
+
 Pozdě v noci jsme se vrátili z Mléčného zubu a požádal jsem mámu, aby mě brzo ráno vzbudila, protože jsem je chtěl vidět, ještě než odjedou.
 
 Když jsem se konečně ráno vzbudil (máma se na mě vykašlala), vyletěl jsem z postele a vletěl do kalhot a bezmála šipkou se přenesl až k jejich domku. Ale už mi to nebylo nic platné. Byl už zas prázdný a pozamykaný.
 
 Chvíli jsem bloumal okolo a hledal sebemenší známku jejich nedávné přítomnosti, nějakou nicotnůstku, kterou mi tu nechali na rozloučenou. Ale nezůstala po nich ani vyplivnutá sirka na cestičce (a přitom Luděk v jednom kuse žvýkal a vyplivoval sirky, byl to jeho způsob, jak odvykat kouření).
 
+</section>
+
+<section>
+
 Teprve teď si uvědomuju, že jsem vlastně o nich skoro nic neřekl. Žádný popis, žádná charakteristika. Jako by byli z mlhy a pár. Ale pro to existuje jednoduché vysvětlení. Je to jako s tím táborovým ohněm na Mléčném zubu. S ohněm, který vymazal všechna světla v okolí. To, co mě pak v následujících měsících potkalo, to, co jsem pak prožil, jako by vygumovalo celý můj předchozí život, jako by z něj udělalo jen svět stínů, v němž lidi nemají obličejů.
 
 Můj skutečný život začínal bohužel až tam, až za prahem těch dní. A znova, neměl jsem nejmenší tušení, že jsem už od toho prahu doslova jen pár kroků. A buďme zase přesní: když jsem se vracel od vyprázdněného domku Luďka a Pamely Janáčkových, zbývalo mi už pouhých dvaapadesát minut.
+
+</section>
+
+<section>
 
 Hned po snídani, které jsem se skoro nedotkl, jsem se vypravil sám podél Sázavy, protože jsem se už nechtěl s nikým vidět, celý rozlítostněný z toho, že sotva člověk k někomu maličko přilne, tak dotyčný si prostě a sprostě sbalí svých pět švestek a zmizí. To nebyl jen pocit křivdy, to bylo cosi mnohem hlubšího, jestli mi rozumíte, jestli mi chcete rozumět. Oni si mě chytili na udičku a pak škub – a nechali ve mně zaseknutý háček! Ale než se stačila lítost pořádně vyzuřit, stalo se cosi, co ji rázem zbezvýznamnilo a odfouklo jak vítr lístek ze stromu. A odehrálo se to v několika hbitých okamžicích.
 
 Někdo ke mně zezadu přiskočil a nacpal mi do nosu a do huby hadr s chloroformem či co, však to znáte z gangsterek, a přestože jsem napřed dost hbitě reagoval a udeřil toho druhého pěstí do břicha (byli dva, tolik jsem ještě stačil zaregistrovat), má fatální pěst sice dopadla, ale dopadajíc, začala se už, abych tak řekl, rozpouštět a to jsem už cítil, jak se rozpouštím celý, co kostka šuměnky ve sklenici vody.
 
+</section>
+
+<section>
+
 Odpoledne pak prý kdosi našel moje šaty poskládané na hromádku na břehu Sázavy. A tři dny mě prý hledali dlouhými bidly a pak to vzdali. V těch místech je v řece prudký proud, a tak prý usoudili, že ten mě nejspíš odnesl čertvíkam.
 
 A měli pravdu. Cosi mě odneslo. A hodně daleko. Pryč z mého dosavadního života. A ze světa všedních starostí obyčejných lidí.
+
+</section>

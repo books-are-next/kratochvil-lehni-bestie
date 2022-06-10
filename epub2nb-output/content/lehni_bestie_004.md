@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Lehni, bestie!](https://search.mlp.cz/cz/titul/lehni-bestie/2330128/#book-content) tak, jak bylo vydáno nakladatelstvím Petrov v Brně v roce 2002. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
@@ -19,4 +21,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 25. 6. 2021.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>
