@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Právě jsem přistál na ruzyňském letišti a stojím teď v řadě na pasovou kontrolu, postarší Američan, na jehož vzhledu, ale i každém pohybu je už na první pohled znát, že se nejspíš narodil v rodině nějakého bohatého podnikatele, který mohl například vlastnit dlouhý sled autoopraven na východním pobřeží, jmenuji se Franklin Jones, absolvent těch nejlepších univerzit, jenž si už ale taky stačil nadělat vlastní majetek na vývoji první řady cestovních laptopů, a to prosím ještě v čase, kdy vůbec nebylo jasné, že počítače je možné úspěšně přemístit z pracovních stolů na kolena pasažérů ve vlacích, autobusech, lodích…
 
@@ -22,6 +18,10 @@ Ing. Miroslava Janáčka zastihnu doma. Ale neví nic o žádné Pamele a Luď
 Nastěhovali se sem v dvaapadesátém, jak mi tenkrát aspoň tvrdili (Od zítřka jsme, kluku, Malostraňané. Anebo Malostraňáci?), ale mohli se mezitím taky přestěhovat do jiné pražské čtvrti, mohli se vrátit zpátky do Sluk, jenže já moc dobře vím, Franku Jonesi, kde bys je teď nejraději našel: na některém z pražských hřbitovů, takový krásný pozlacený nápis v černém mramoru (Luděk a Pamela Janáčkovi – STAT SUA CUIQUE DIES[2](./resources/undefined)) by mi poskytl neskonalou slast u vědomí, že Pámbů si vzal na starost mou pomstu. Neb jakkoliv je nenávidíš (nepochybně se na tobě škaredě provinili, zradili tě a prodali Velmistrovi do Studny, zvlášť když uvážíš, jaks je oba miloval, tou čistou chlapeckou láskou), pověz, co by sis s nimi asi počal, kdybys je tady teď našel? Splnil se tvůj dávný sen, sen z té černé vězeňské kobky, vrátil ses bohat a pod jiným jménem a s novou identitou, vrátil ses jako sám hrabě Monte Christo, ale koukám už bez jeho talentu rozsévat pomstu jak indické konopí.
 
 A tak se ještě dnes rozhoduju, že už nemám důvod setrvávat v Praze. Hned ráno se rozjedu do Brna.
+
+</section>
+
+<section>
 
 V červenci 1968 jsem se poprvé pokusil zjistit něco o svých rodičích. Dřív jsem si netroufal, protože jsem se bál, že bych je tím svým zájmem ohrozil. Ale ani v tom výjimečném roce jsem se do Československa neodvážil vypravit. A tak jsem se obrátil na takovou newyorskou krajanskou organizaci, předválečné a válečné emi­granty, starší pány, kteří tenkrát houfně navštěvovali starou vlast.
 
@@ -121,6 +121,10 @@ A komu že jsem to vyprávěl? No přece těm porotcům, co sedí ve mně, co s
 
 Ale přece jenom mi ještě chvíli trvalo, než jsem pochopil, že právě kvůli tomu jsem tady a že přesně tohle mínil můj psychoanalytik, když mě přesvědčil, abych se sem vypravil. To hledání mých rodičů a všech těch dávných účastníků dávných dějů, to nebylo vůbec důležité. Chodil jsem od ničeho k ničemu, nikde jsem neuspěl a nic nového se nedozvěděl, ale to podstatné se už dálo: proměnil jsem své trauma v příběh.
 
+</section>
+
+<section>
+
 A teď už je můj příběh u konce, anebo téměř u konce, už jsem vám ho odvyprávěl celý, anebo téměř celý, a za pár dnů se už zase vracím do New Yorku. Ale přiznám se, dámy a pánové, mé trpělivé publikum, že když jsem se rozhodl pojmout svůj život právě takhle, ocenil bych teď třeba jen maličkou náhodu, která by to přece jenom trochu vypointovala, tak jak náhody tradičně fungují v těch nejlepších i nejmizernějších příbězích. Aspoň maličkou, rozmarnou náhodičku, kudrlinku osudu. A proto jsem se rozhodl ještě pár dnů posečkat a ještě se pár dnů věnovat pozorování života v rodném městě.
 
 Dneska je sobota, 8. září 2001, a ještě pořád nádherné babí léto. V kiosku před hotelem si kupuju sobotní noviny a nechávám se strhnout víkendovým proudem a po chvíli zjišťuju, že už sedím v tramvaji a jedu se sluncechtivou tlupou na přehradu.
@@ -160,6 +164,10 @@ Když jsem vyběhl z redakce, byl jsem v pokušení jít na nejbližší stano
 Zajel jsem loudavou tramvají ke kostelu pod Kraví horou a šel hledat do Masarykovy čtvrti tu ulici a ten dům. Našel jsem ho prázdný a zamknutý. Stál jsem tam opřený o strom a chvíli se díval. (Když jsme odtud utíkali, byl jsem tak upnutý na to se svými svěřenci rychle zmizet, že jsem ani nepoznal, kde to jsme! Když tenkrát odbíjela ta osudová hodina, cosi ve mně zapřelo mé rodné město!)
 
 Po chvíli bloumání jsem vzal na vědomí, že Velmistr má ještě někde chalupu a víkenduje si tam. Takže to budu muset odložit na pondělek.
+
+</section>
+
+<section>
 
 V pondělí jsem usoudil, že devět je už dobrá hodina. Napřed jsem se dost bál, že mi přijde otevřít Sandra. Ale tohle byla mnohem mladší ženská. Rozvedl se a znova oženil? Anebo je to jeho dcera?
 
@@ -227,6 +235,10 @@ Vykřiknu, odstrčím servírčinu kapří tlamičku lapající po dechu, obleč
 
 Nevím, kudy jsem chodil, jen si vzpomínám, že když jsem odemykal hotelový pokoj, byla už noc. Okamžitě jsem usnul těžkým, močálovitým spánkem, jakým někdy spávám, když si trochu víc vypiju.
 
+</section>
+
+<section>
+
 Dámy a pánové, mí ctění a vážení porotci, kteří od začátku sledujete mou kauzu, přiznávám, že jsem se k vám mnohdy obracel i neuctivě a s nedůvěrou, protože se ve mně od počátku vyprávění srážela celá řada tak protichůdných pocitů, viny, strachu, křivdy, vzteku i naděje. Ale teď už vám jen spěchám oznámit, že příběh, jemuž jste naslouchali, právě doběhl ke svému definitivnímu konci.
 
 Před chvílí jsem se vzbudil ve svém hotelovém pokoji, ošklivě otřesen snem tak přilnavým, že bylo nesmírně obtížné prodrat se z něho ven. Jistě se na tom podepsalo taky to všechno, co jsem včera zažil. Nakonec jsem se probudil, jako bych s praskajícími plícemi vyletěl z nesmírných hlubin k vodní hladině. Však kujme železo snu, dokud je ještě žhavé:
@@ -256,3 +268,5 @@ Dojím, sundám ubrousek a drbnu pod stolem do malé psí mrchy (vstávej, best
 _[2](./resources/undefined) Každému je určen jeho den. _Pozn. red.__
 
 _[3](./resources/undefined) Citát z Nezvalova překladu Rimbaudovy básně _Román_. _Pozn. autora.__
+
+</section>

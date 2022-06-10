@@ -3,11 +3,7 @@ title: ''
 contentType: prose
 ---
 
-  
-
-  
-
-  
+<section>
 
 Napřed se náš kamion zmítal a poskakoval mezi stromy na cestách necestách (v tom zřejmě ohrazeném vojenském pásmu) a slyšel jsem, jak děti tam v nákladním prostoru padají na sebe, otloukají se o stěny a srážejí hlavičkami, ale ani jednou nefňukly a nezabrečely. A zas se přiznám: byl jsem na ně svým způsobem hrdý.
 
@@ -22,6 +18,10 @@ Kouřil jednu cigaretu za druhou (vidíte, kdyby mi nepřivázal přes oči ten 
 Velmistr promluvil s kýmsi z obsluhy pumpy (je to k vzteku stále se jen dohadovat, co se to vlastně kolem vás děje, ale na druhé straně to zas bystří vaši představivost) a pak šel za mnou a řekl mi: Vstávej, jdem odvázat psa!
 
 Velmistr totiž občas rád zabočil do vojenské hantýrky, abych viděl, jak tvrdý je chlapík. Vzal mě zas za loket a odvedl kamsi za pumpu a tam jsme stáli a močili. A když jsme se vrátili, šel ještě zavelet té drobotině v kamionu. A to už jsem si zas představoval, jak hned družně vytvořili řetěz a Velmistr je taky odvedl za pumpu, kde teď všichni stojí v dlouhé řadě: Nicola Sacco vedle Karla Liebknechta a Oleg Koševoj vedle Jeana Paula Marata a Julius Fučík vedle Nikose Belojannise a Federico Garda Lorca a Bartolomeo Vanzetti a Sergej Kirov a Angelo Vratič a Louis Antoine Léon de Saint-Just a Jan Šverma a Pavlík Morozov a Georges Jacques Danton a tak dále a tak dále, jen Rosa Luxemburgová a Zoja Kosmoděmjanská si v té řadě přidřeply. (Poradím vám: můžete si to představit jako dlouhou klávesnici se dvěma zaseknutými klávesami.)
+
+</section>
+
+<section>
 
 Projížděli jsme vesnicemi, městy a městečky. Napřed jsem je tak trochu počítal, než mě to přestalo bavit, protože bylo dost obtížné, jestli ne úplně nemožné, poslepu rozlišit, co je jen dlouhá, roztahaná obec a co už třeba město, které jsme jen tak štrejchli při periferii. Ale zato jsem zřetelně rozeznal, když odpoledne přecházelo v podvečer, a ani šátek na očích mi nemohl zabránit, abych nepoznal nástup večera.
 
@@ -51,6 +51,10 @@ Už jsem se myslím několikrát zmínil, že Velmistr se mi občas s něčím 
 
 Velmistr pojal ke mně otcovskou náklonnost a to, že mě připravoval na smrt, bylo zřejmě něčím takovým, jako když duchovní otec připravuje svého svěřence na biřmování nebo na bar micvu či jinou formu iniciace. Neboť smrt měla být mou iniciací! Takže tyto tři důvody, má inteligence malého rozumbrady a to, že se už brzičko proměním v mrtvolu, která už dál nic nevyžvaní, a konečně i Velmistrova otcovská náklonnost, to vše ho vedlo k tomu, aby mi svěřil věci, jež se jen hned tak někomu nesvěřují.
 
+</section>
+
+<section>
+
 Velmistr: Nesmrtelný měl spousty nepřátel, kteří netrpělivě čekali na jeho smrt. A teď mě poslouchej, Spartaku. Zatímco navenek se stále pokračuje v jeho odkazu, ve skutečnosti se už teď jeho dílo bourá a ničí. A hlavní úder je veden proti myšlence z nejmilejších, proti procesům s dětmi. Nesmrtelný prošel pravoslavným seminářem a moc dobře věděl, jakou sílu a moc má obětování nevinných. Když procesy s nejoddanějšími členy strany a jejich popravy už nemají ten účinek, musí nastoupit obětování jehňátek, jak tomu Nesmrtelný s láskou říkal. Krev nevinných je tou živou vodou, co křísí ideje, a revoluce se musí stále znova křísit a zažehávat, jinak zasmrádne jak psí zdechlina. A to jí právě teď hrozí. Dětské kláštery jsou teď všude likvidovány a musí se stáhnout do podzemí.
 
 Já: Takže naše další činnost je vlastně ilegální?
@@ -77,6 +81,10 @@ Já: Ale já…
 
 Velmistr: Přesně tak, Spartaku. Nerad bych, abys měl pocit, žes byl o něco ošizen. Něco jsem ti slíbil a svému slovu dostojím. Ti, co zůstali věrni Nesmrtelnému, shánějí už teď ty nejlepší žalobce a soudce, kteří vás odsoudí, a ty nejlepší katy, co vás popraví, a nejlepší režiséry a kameramany, co všechno zdokumentují. Vaše oběť se uskuteční v katakombách jak oběti prvotních křesťanů, odehraje se v temnotách, ale jen proto, aby jednou mohla být vyzvednuta na světlo. Nesmrtelný by měl pro to pochopení. Je to důstojná varianta.
 
+</section>
+
+<section>
+
 Ale nebyla to zas taková procházka růžovým sadem, jak by mi Velmistr rád namluvil. Nejenže tam neměl žádných dozorců, takže si musel celý provoz obstarávat sám, ale taky se nám mohl věnovat až navečer, protože přes den vykonával jinou práci, byl pověřen jiným důležitým úkolem, když tenhle už přece oficiálně neexistoval a byl mu odejmut.
 
 (A nebude tak zcela bezvýznamné, jak taky časem pochopíte, když teď letmo zmíním ten jiný důležitý úkol, jímž byl Velmistr pověřen.
@@ -84,6 +92,10 @@ Ale nebyla to zas taková procházka růžovým sadem, jak by mi Velmistr rád n
 Vyprávěl mi často o usilovném snažení těch, co se pokoušeli utéct přes naše přísně střežené hranice. Stavěli si ve stodolách za tím účelem podomácku a pokuchyňsku letadla, nafukovali si tam balony i vzducholodě, nechávali se přes hranice vystřelovat s padáčky na zádech, zkoušeli se podhrabat anebo snili o tom, že hranici přeskočí o tyči anebo ji překročí na vysokých chůdách, případně se rozpadnou na atomy a na druhé straně zas poskládají. Ale jen naprosto výjimečně se někomu z nich něco podařilo. Naprostá většina těch, co to jakýmkoli způsobem zkusili, byla buď rozstřílena na hadry, nebo skončila v kriminále a v lágrech. A pak přišel kdosi na to, že jednoho takového šíleného nápadu je přece možno využít ve státních službách. A právě to byl úkol, který svěřili Velmistrovi.
 
 A tady bych to přerušil, abych zas později navázal. Nebojte se. Nepřipravím vás o to.)
+
+</section>
+
+<section>
 
 Nejnepříjemnější ovšem bylo, že ti, co Velmistra zpočátku i finančně podporovali a z jejichž zdrojů kvitla ta sklepní varianta, pak rychle odpadli. A musel to všechno táhnout sám. Přesvědčený ale o tom, že jednou – a už hodně brzo, snad už zítra – přijde čas, kdy se mu to mnohonásobně vrátí.
 
@@ -96,6 +108,10 @@ To, co jsem nazval „zvukovým periskopem“, byl jakýsi akustický nemrav, kt
 Dneska už vím, že to byl bezděčný produkt odposlouchávacích systémů, jež kdosi (no, kdopak asi? hádejte) instaloval do Velmistrova domu. Takže jsem ve sklepní kobce vyslechl hádky mezi Velmistrem a jeho ženou. A co bych za to dal, kdybych je nemusel slyšet!
 
 V divokých hádkách mu vyčítala, že živí ve sklepě tolik hladových krků a jede v čemsi, co dnes už nikoho neinteresuje a může jim způsobit leda nepříjemnosti. Bylo mi jasné, že Velmistr je teď na tom velice zle, všichni se od něho rychle odtahovali a vypadalo to, že těch, co zůstali opravdu věrni odkazu Nesmrtelného, překotně ubylo. O to víc jsem si Velmistra vážil a bylo to období, kdy jsem k němu nejvíc přilnul, a kdyby mi tenkrát dal do ruky nůž a řekl, vykrouhni si a podej mi svůj brzlík, asi bych to hbitě udělal. Ale že denně slyším jeho hádky s ženou, to jsem se mu styděl přiznat.
+
+</section>
+
+<section>
 
 Jednou v noci mě probudil neobvyklý rozhovor, který se odehrával v pravém horním rohu mé cely, kam ústil zmíněný „zvukový peri­skop“. Čím byl neobvyklý? Velmistrův hlas byl jako vždy strohý, ale hlas jeho ženy pookřál zvědavostí. Velmistr povídal o mně a o jisté mé nadměrné vybavenosti, a jak jsem pochopil, ukazoval jí cosi z mé dokumentace.
 
@@ -123,13 +139,25 @@ Byli jsme teď s Velmistrem jedna blažená rodinka. On šťasten, jak vyzrál 
 
 Stejně ten příběh moc rychle letí, nezdá se vám?
 
+</section>
+
+<section>
+
 Tuším, že začínám být protivný, jak tady pořád povídám jen o sobě. Ptáte se, jak se asi dařilo mým spolubratřím a spolusestrám? Snad si ani pořádně neuvědomovali, že jdou vstříc svým popravám. Ale jistě, věděli to. Jenže se to už stalo naprostou samozřejmostí tak jako dýchání, jídlo a vyměšování. Ale to je přece obecný zákon. Naprostá většina lidí si už vůbec neuvědomuje, že den ode dne běží vstříc své smrti, pokud je zrovna neochromí mrtvice anebo nevyděsí infarkt či nějaká ošklivá nemoc. Obávám se, že tahle kůzlátka, na něž se už hlasitě brousily nože, žila ve svých celách v bezuzdném zapomnění. Denně sborově opakovali své sebeobviňující řeči a hystericky se dovolávali svých katů, sekyr a špagátů, ale už pár minut po těchto povinných modlitbách hráli v celách čáru s vydrolenými kamínky anebo na slepou bábu s ukradenými barevnými šátky a taky na žíhanou a na maso maso maso! A na rozdíl ode mě se nikdy netrápili nějakým slibem čistoty. Pokud vím, tak lezli po sobě jak štěnice ve zpustlém hotelovém pokoji a například Zoja Kosmoděmjanská byla k dispozici všem, kdož jí tam chtěli vsunout zvědavý malíček. A to chtěli, jak se ke mně doneslo, všichni. (A někdy zaráz tři!)
 
 Ale všechno se to přibližovalo překotněji, než byl i já ochoten připustit. Například jednoho dne Velmistr přivedl lékaře. No možná to byl jen nějaký vojenský felčar, ale prohlížel nás jednoho po druhém. Nikdo nemohl být připuštěn k popravě bez důkladné lékařské prohlídky. K procesu ani k popravě. Velmistr byl perfekcionista až hrůza. Ale lékař chválabohu ne. Všem psal „schopen“. Jen Rose Luxemburgové chtěl předepsat rovnátko na zuby. Ale pak mu to došlo. Zašklebil se a strčil si recept zpátky do tobolky.
 
+</section>
+
+<section>
+
 Před chvílí odešla Sandra a za chvíli přijde Velmistr. Sedím na štokrdleti, které mi předvčerejškem Sandra přinesla shůry, z kuchyně (Spartačku, Spartačku, dneska ses předvedl, ňam! Řekni, co za to chceš? Jsem tvá zlatá rybka, splním ti každé přání. Chci štokrdle!), a dívám se tenkou škvírou, co v mé cele zbyla po lajdácky zazděném sklepním okénku, dívám se na jakési světlo, co by snad mohlo být slunečním západem (pokud to není vajglem podpálená odpadová nádoba), a napadá mě, že si už nejsem tak jistý, jestli chci opravdu zemřít pro velké ideje. Ještě před pár dny jsem o tom už nepochyboval. Ale, dámy a pánové, stačila troška toho šoustáníčka, aby to rozhlodalo mé základní jistoty. A zrovna teď, když už je má poprava zřejmě na dosah. Ale hned se zas za tu nestoudnou myšlenku zastydím.
 
 Dívám se štěrbinou na západ slunka (nebo hořící odpadovou nádobu) a cítím nestydatou krásu toho slunečního západu (anebo hořící odpadové nádoby). A už slyším, jak Velmistr odmyká kovové dveře do sklepa, a kopnu rychle štokrdle pod pryčnu a stavím se do latě. Ale Velmistr tentokrát jen zběžně obejde cely, zarachotí kukátky ve dveřích a zas odkráčí.
+
+</section>
+
+<section>
 
 K našemu dennímu programu patří taky procházky. Ve Studni bylo všechno jednodušší, protože z cel se přeběhlo arkádami přímo do dvora. Tady ale zase napřed dostaneme šátky na oči (to bych rád věděl proč!) a pak vystoupáme, vyklopýtáme ze sklepa a chvíli couráme jakýmisi chodbami. Ten dům má potvornou prostorovou dispozici a trvá to, než se z ní vymotáme a vpadneme na dvůr. Tenhle je ovšem skutečný a ne rajský.
 
@@ -147,6 +175,10 @@ Ale když se na něho podívám já, jak tam stojí opřený o futro, mám poci
 
 Včera nebo předvčerejškem (ale možná už předpředvčerej­škem, můj soukromý kalendář není zas tak spolehlivý) jsem měl mít narozeniny. Ale třeba je budu mít zítra. Každopádně prošly anebo projdou zcela nepozorovaně. Anebo snad čekám, že mi Sandra upeče a Velmistr přinese dort se čtrnácti svíčkami? (Co teď právě dělají můj otec s mámou?) Ráno toho dne, který jsem si nakonec zvolil jako den svých narozenin, jsem s ostatními odříkával sborovou modlitbu (sebeobviňující řeč o své nenávisti k pracujícímu lidu, jehož budovatelské úsilí jsem chtěl narušit, a o svých kontaktech s americkou CIA a sudetoněmeckým landsmanšaftem), ale odříkával jsem ji zcela mechanicky a představoval si přitom, že bych mohl jako dárek ke čtrnáctým narozeninám dostat, že se při podvečerní procházce objeví na střeše zas ta vznešená kočičí aristokratka a hezky se na mě podívá. A najednou mi dojde, že místo sborové modlitby odříkávám cosi docela jiného: Přijď, má kočko, ty žíhaná egyptská krásko, jež kráčíš nad městy a nad lidskými osudy sametovým krokem hebkých tlapek… A leknu se a hned zas zmlknu. Však při podvečerní procházce jsem ji opravdu čekal a vyhlížel, jako bych s ní měl smluvenou schůzku. Neobjevila se. Jsem ale pevně přesvědčen, že jsme se pouze minuli a že tam přiběhla jen minutu poté, co jsme odešli. A stála na střeše a dívala se na prázdné místo po mně. A tak snad příště, má nádherná a svobodná kamarádko.
 
+</section>
+
+<section>
+
 Zoja Kosmoděmjanská a Rosa Luxemburgová měly ve Studni svou celu. Tam se na oddělení pohlaví přece jenom přísně dbalo. Kdežto ve Velmistrově sklepení jsem měl svou celu jenom já, obětní primadona. A Zoja Kosmoděmjanská a Rosa Luxemburgová byly pro nedostatek místa nacpány do cel s klukama. A zatímco Zoja Kosmoděmjanská je tam, jak už víme, k dispozici všem (kdo mají jen trochu zájem), jejich pubertální i předpubertální zvědavosti, Rosa Luxemburgová je jejím pravým opakem, stydlivá a nepřístupná, a její holčičí čest tam statečně brání Kim Son-do, chlapec pojmenovaný po statečném korejském vojákovi, který v roce 1951 padl v boji s americkými imperialisty. Mezi desetiletou Rosou Luxemburgovou a jedenáctiletým Kim Son-do vzniklo něžné přátelství, jež však nikdy nedošlo dál, než že se drželi za ruce a že se Kim Son-do o Rosu Luxemburgovou všemožně staral, našel a ubránil jí to nejlepší místo v cele, nosil jí misky s jídlem, a když seděla na kbelíku, stál před ní jak živý paraván. Ale jejich rty se nikdy nedotkly. To nevím samozřejmě z vlastního pozorování, vždyť jsem je vídal právě jen na tom dvoře (kde se ovšem také drželi stále při sobě), to vím od Velmistra. Dost mě šokoval tím, když mi prozradil, že má mezi děckama donašeče.
 
 Julius Fučík? zeptal jsem se, ale Velmistr zavrtěl hlavou.
@@ -158,6 +190,10 @@ A po chvíli: Jestlipak si ještě vzpomeneš, kdo mi tenkrát přišel práskn
 Mlčel jsem.
 
 Tak vidíš. Ale tentokrát mám placené donašeče. Dostávají trošku víc do misky.
+
+</section>
+
+<section>
 
 Hodně jsem o tom později přemýšlel. Totiž zatímco vulgární chování Zoji Kosmoděmjanské, která se ochotně nabídla klukovské zvědavosti, bylo Velmistrem a jeho ženou tolerováno, něžný a láskyplný vztah mezi Rosou Luxemburgovou a Kim Son-do probouzel ve Velmistrovi, ale především v Sandře, až zuřivý odpor. A pak jsem tomu – ale zas až z velkého odstupu, až ve vzpomínce – porozuměl. Vždyť vulgárnost, chlípnost a prostituce nepoškozují žádné kolektivní společenství tak jako silný milostný vztah, který rozbíjí kláštery, bourá věznice a vyhazuje do povětří kasárna. Jistě, byli jsme tenkrát jenom děti, jen děcka, ale v těch dávných dnech se stal náš osud příběhem celého lidstva. To jsem ovšem tenkrát ještě nevěděl. Jak jsem to mohl vědět? Stál jsem přece věrně po boku Velmistra.
 
@@ -181,11 +217,19 @@ Nebudeš mi věřit, Spartaku, ale málem jsem se tím nechal dojmout. A zamá�
 
 Nad ránem přijelo auto a muži vybaveni klíči od domu vtrhli až do Velmistrovy ložnice a slyšel jsem „zvukovým periskopem“, jak surově s Velmistrem a Sandrou naložili. A odvezli je. Až po chvilce mi došlo, co se právě stalo. Velmistr byl shledán nežádoucím a odstraněn.
 
+</section>
+
+<section>
+
 Když mi došlo, co se právě stalo, bylo už auto nenapravitelně pryč. Přesto jsem vyskočil a běžel ke dveřím cely a bušil a kopal do nich a křičel, aby mě ti vrahové vzali taky s sebou, protože bez Velmistra nehodlám žít. A ještě chvíli jsem tak kopal a bušil a křičel a pak jsem si uvědomil, co samozřejmě odedávna vím, totiž že moje dveře nejsou přece zamknuté (a mí posluchači si třeba vzpomenou, že jsem toho privilegia požíval už ve Studni). A tak jsem přestal tlouct a kopat a otevřel.
 
 Ale mezitím jsem už tu drobotinu ve vedlejších celách křikem a kopáním probudil a nakazil. A začali taky kopat, bušit a křičet, a přestože vůbec netušili, co se stalo, měli neskutečnou výdrž. Ale třetího dne přece jenom odpadli. A po celou tu dobu se nikdo neobjevil, nikdo nám nevynesl kbelíky a nikdo nenaplnil misky. Ale to jsem už taky pochopil, že ti, co odvlekli Velmistra, měli jistě i s námi velice podlé úmysly. I my jsme už byli nežádoucí.
 
 Když jsem vyhlédl z cely, našel jsem v jejích dveřích klíč a přesvědčil se, že odemyká zámky všech cel. Vypustil jsem tedy drobotinu, ale stejně jsme zas jen uvízli v chodbičce před celami, protože od dveří oddělujících sklep od domu jsem už klíč neměl. A tohle byly těžké, železné dveře. A pak jsem se podíval na děsivě vyhublou, až placatou Rosu Luxemburgovou a na uzounkou škvíru po sklepním okénku pod stropem své cely. Pověřil jsem tedy Rosu Luxemburgovou úkolem, který, jak jsem zdůraznil, vyvede je oba z téhle temné pasti, a pomohl jí do škvíry. Věděl jsem, že láska dokáže zázraky, aspoň v knihách, které jsem kdysi čítával, to tak fungovalo. A opravdu, Rosa Luxemburgová zdecimovaná hladovkou a utrpením malého mučedníka lásky dokázala přesto a potmě (vypustil jsem ji z bezpečnostních důvodů až v pozdních nočních hodinách) vyšplhat jak moucha po porézní fasádě až do pootevřeného okna Velmistrovy ložnice. Měli jsme náramné štěstí, že ti, co odvlekli Velmistra a Sandru, nepročesali ještě jeho byt a že si na to zřejmě vyhradili čas až v některém z nejbližších dnů. A tak Rosa Luxemburgová mohla ještě v předsíni na věšáku najít svazek klíčů, odemkla sklep a nám všem tak ústupovou cestu.
+
+</section>
+
+<section>
 
 A tady je třeba říct, že pro všechnu tu drobotinu jsem měl nepochybné charisma, takže jsem se jich mohl za Velmistrovy nepřítomnosti ujmout. Zbytečně jsem tak dlouho nestál po jeho boku. A cítil jsem jako svou povinnost zachránit nás pro to velké poslání, jemuž jsme předurčeni. Ano, přijal jsem břímě daleko přesahující můj nezralý věk, ale svým úkolem jsem rostl a vše jsem dělal s vědomím, co by na to řekl, a stále jsem viděl jeho oči, jak nepřetržitě plují nade mnou jako má jitřní a vedle ní večerní hvězda.
 
@@ -209,6 +253,10 @@ Slyšel jsem zvenku hlasy, ale moc nerozuměl slovům, snad jen občas nějakém
 
 A tady, prominete mi, další průběh událostí jen letmo načrtnu a možná i kousíček ukrátím a přeskočím, protože jinak bych nebyl s to vyslovit ten jejich spád, tu závratnou rychlost, s níž byla právě přehozena výhybka v našich osudech.
 
+</section>
+
+<section>
+
 Zvedl jsem celé naše ležení a vyskákali jsme přízemními okny na opačné straně domu, než parkovali naši likvidátoři. Ale Louis Antoine Léon de Saint-Just, jemuž jsem ještě narychlo přidělil hodnost plukovníka a který měl při útěku uzavírat náš útvar a pozavírat okna (aby nebylo hned jasné, kudy ptáčkové ulítli), se pak otočil a pohlédl už do očí ostřelovače (vy byste dnes řekli snajpra, že). Už nás vyčenichali.
 
 Ale teď zas pro změnu k té přislíbené příznivé náhodě. A chtěl bych tak zároveň připomenout, že po všem nevlídném přichází zas – a někdy hned a někdy později – něco příznivého, protože život má rád kontrasty a rytmus.
@@ -223,6 +271,10 @@ Bylo mi jasné, že naši pronásledovatelé nejsou žádní hlupáci, jinak by 
 
 Ale teď pozor, už to dělám, vidíte? Najednou uskočím z davu do pusté boční uličky, kleknu si tam nad kanál, hvízdnu slavičím hvizdem a už se na mě sesypou mí milovaní, ti, které mám teď vyvést do bezpečí jak Mojžíš vyvedl kdys národ izraelský. (Ach, ty má ničemná sečtělosti!) Společným úsilím zvedneme kanálovou mříž a zůstávám nahoře, dokud se poslední z nás nespustí po žebři z kramlí zapuštěných do stěn hluboké šachty. Teprve pak sestoupím taky a zaklapnu za námi mříž.
 
+</section>
+
+<section>
+
 (Nebyli jsme první ani poslední, co kdy utíkali do bezpečí chodbami těchto podsvětních Danteho paláců, a jednou někdo sepíše úctyhodné dějiny útěků kanálovými kryptami, kavernami a kazematy, vždyť tohle podzemní království, do něhož bezostyšně směřuje nejhnusnější odpad z našeho každodenního provozu, tady stále trpělivě čeká, až ho jednou budem zas potřebovat jako svou poslední naději ve světě, jehož nadzemní prostory znova propadnou peklu.)
 
 V kanále bylo přítmí a místy dost husté a lepkavé, ale na to jsme už přece byli zvyklí z Velmistrova sklepení a předtím samozřejmě ze Studny. Tma určitě nebyla tím, co by mou dětskou podzemní armádu ochromilo. Po pravé i levé straně dvě dostatečně široké římsy, po nichž se dalo dosti pohodlně jít, ale přesto se má drobotina držela co nejvíc při stěně, protože z odpadových vod, které se pod římsami valily, vystupoval nejen agresivní puch, ale byli jsme svědky i ocasatého hemžení, dost zaujatého naší přítomností. Teď se zas ukázalo, jak bylo prozřetelné, když jsem vybraným jedincům z našeho společenství přidělil vysoké vojenské hodnosti a udělal z těch děcek majory a plukase, co mi teď s nezlomnou klukovskou odvahou pomáhali s přesunem pod městskou dlažbou.
@@ -230,6 +282,10 @@ V kanále bylo přítmí a místy dost husté a lepkavé, ale na to jsme už 
 Naše cesta se často zatáčela a všelijak klikatila jako jízdní dráha zažívacím traktem nějakého obrovského leviatana. A byla tam místa, kde byla římsa, po níž jsme se šinuli, přerušena, a to buď vydrolena, nebo jako by nějakými obřími zuby vyhryznuta. Jako by v tom zažívacím traktu obrovského leviatana žil nějaký střevní parazit s ocelovým chrupem. A to jsme si pak museli pomoct, jak se dalo, anebo třeba i nedalo, ale nakonec vždycky přece jenom dalo. A to byla pak starost plukovníka Jeana Paula Marata a majora Olega Koševého. S potěšením jsem se díval, jak si ti dva, až dosud spíš nenápadní chlapci, počínali, když dělali záchranu těm, co se sami neodvažovali přeskočit z jedné části zborcené římsy na druhou. Ale zato jsem nebyl ani moc překvapený, když jsem se přesvědčil, že Rosa Luxemburgová ani Zoja Kosmoděmjanská vůbec žádnou pomoc nepotřebovaly. Celou cestu se obě dvě pohybovaly se suverénní jistotou provazochodkyň, které když dojdou až na konec provazu nataženého vysoko nad náměstím, přeskočí prostě na další stožár. Ta dvě tak rozdílná děvčátka – hubeňoučká Rosa Luxemburgová, již mohl kdykoliv odvát nejnepatrnější průvan, a Zoja Kosmoděmjanská, ta smyslná kulička, do níž bylo zvědavými prstíky promáčknuto bezpočet otvorů – byla stejně statečná a hrdá a přes propasti, nad potkaními stokami, létala jak tenisové míčky.
 
 Jak jsem už řekl, v kanále bylo setrvalé přítmí, ale nikdy ne naprostá tma, což bylo zásluhou pravidelně se objevujících kanálových mříží a pak taky toho, že odpadové vody často fosforeskovaly a někdy dost zarputile, nejspíš následkem energetických proměn hloubavě zasmrádlé biomasy. Ale ještě bych moc rád zdůraznil, že náš přesun vůbec nebyl pochmurný, jak byste třeba očekávali a soucitně komentovali. Ne, ne, vždyť nám k tomu hrála hudba. A jaká! Kdykoliv jsme prošli pod některou z kanálových mříží, zaslechli jsme shora hluk májového průvodu, který se tam dál valil, a taky skočnou hudbu, co ho provázela. Až nám ty kanálové mřížky přišly jak veselé májové amplionky.
+
+</section>
+
+<section>
 
 Netušili jsme, kam nás cesta vede, spěchala dolů, snad někam k řece, jen jsme doufali, že mimo dostřel soudruhů snajprů. A tak utíkali jsme a nevěděli kam. Až jsem uviděl něco zvláštního a dal jsem ostatním pokyn, aby vyčkali, a vrátil jsem se kousek zpátky. V labyrintu kanálových odboček (všechny nám připadaly jak slepé uličky) byla jedna čerstvě zatarasená chodba. Někdo chtěl zabránit v cestě každému, kdo by k té odbočce náhodou zabloudil. A to už jsem tušil proč.
 
@@ -253,6 +309,16 @@ Zároveň jsem ale moc dobře věděl, že pro mě pak už bude pozdě, jediný 
 
 A tehdy jsem taky porozuměl velkému smutku Velmistrovu.)
 
+</section>
+
+<section>
+
 A potom jsme už šli.
 
+</section>
+
+<section>
+
 A šli jsme nepředstavitelně dlouho.
+
+</section>
