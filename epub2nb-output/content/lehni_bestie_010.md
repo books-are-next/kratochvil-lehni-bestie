@@ -471,7 +471,15 @@ To, co se stalo s dozorci, nečekané navršení všech těch překážek, a t
 
 <section>
 
+<div class="centered">
+
+<div class="verse">
+
 \-trhla
+
+</div>
+
+</div>
 
 </section>
 
