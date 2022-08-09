@@ -1,0 +1,193 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Lehni, bestie!",
+  "author": "Jiří Kratochvil",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "Beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kratochvil-lehni-bestie-2d11262",
+  "revision": "2d11262",
+  "readingOrder": [
+    "promo.html",
+    "lehni_bestie_005.html",
+    "lehni_bestie_006.html",
+    "lehni_bestie_007.html",
+    "lehni_bestie_009.html",
+    "lehni_bestie_011.html",
+    "lehni_bestie_013.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Tue Aug 09 2022 09:06:35 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1660035995362
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "lehni_bestie_005.html",
+      "toc": []
+    },
+    {
+      "title": "Lehni, bestie!",
+      "file": "lehni_bestie_005.html",
+      "words": 64,
+      "chars": 413,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "lehni_bestie_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Lehni, bestie!",
+      "file": "lehni_bestie_006.html",
+      "words": 10,
+      "chars": 21,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 2,
+      "prev": "lehni_bestie_005.html",
+      "next": "lehni_bestie_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "PŘEDTÍM",
+      "file": "lehni_bestie_007.html",
+      "words": 6379,
+      "chars": 36761,
+      "ideas": 93,
+      "role": "chapter",
+      "order": 3,
+      "prev": "lehni_bestie_006.html",
+      "next": "lehni_bestie_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "PŘEDTÍM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "TAM",
+      "file": "lehni_bestie_009.html",
+      "words": 11593,
+      "chars": 68132,
+      "ideas": 183,
+      "role": "chapter",
+      "order": 4,
+      "prev": "lehni_bestie_007.html",
+      "next": "lehni_bestie_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "TAM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "POTOM",
+      "file": "lehni_bestie_011.html",
+      "words": 8286,
+      "chars": 49513,
+      "ideas": 125,
+      "role": "chapter",
+      "order": 5,
+      "prev": "lehni_bestie_009.html",
+      "next": "lehni_bestie_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "POTOM",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "ZDE",
+      "file": "lehni_bestie_013.html",
+      "words": 7022,
+      "chars": 41652,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 6,
+      "prev": "lehni_bestie_011.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "ZDE",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 140,
+      "chars": 905,
+      "ideas": 17,
+      "role": "about",
+      "order": null,
+      "prev": "lehni_bestie_013.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 33500,
+      "chars": 197437,
+      "ideas": 561
+    },
+    "chapters": {
+      "words": 33354,
+      "chars": 196492,
+      "ideas": 540
+    }
+  }
+}
