@@ -378,7 +378,7 @@ Byla tam ale nechutná zima. A tak jsem se ještě vrátil pro zimní kabát. A
 
 <section>
 
-Velmistr[1](./resources/undefined): Krásná noc, Spartaku, co říkáš? I dozorci už dávno spí. Ideální chvíle. Kdyby ses sám neprobudil, přišel bych si pro tebe. Slyšel jsi někdy o křížových výpravách dětí?
+Velmistr[^1]: Krásná noc, Spartaku, co říkáš? I dozorci už dávno spí. Ideální chvíle. Kdyby ses sám neprobudil, přišel bych si pro tebe. Slyšel jsi někdy o křížových výpravách dětí?
 
 Já: Myslím, že jsem o tom cosi četl.
 
@@ -631,7 +631,5 @@ Velmistr mě vzal za loket a odvedl kousek mezi stromy a tam mě usadil v kab
 Vůz (nejspíš kamion) se dal do pohybu a za svými zády jsme nechali Studnu, v níž jsme prožili nejvýznamnější část svých životů a vyučili se v krátku tak tuhé disciplíně, že nikdo z dětí v kamionu by si teď ani za prase nesundal šátek z očí, přestože musely vědět, že během jízdy není nad nimi žádný dohled. Opouštěli jsme Studnu, ale ve skutečnosti jsme si ji vezli s sebou. A ze srdcí nám už ji nikdo nikdy nevytrhá.
 
 * * *
-
-_[1](./resources/undefined) V textu parafráze několika vět z románu Jerzyho Andrzejewského _Brány ráje_. _Pozn. autora_._
-
+[^1]: V textu parafráze několika vět z románu Jerzyho Andrzejewského _Brány ráje_. _Pozn. autora_.
 </section>

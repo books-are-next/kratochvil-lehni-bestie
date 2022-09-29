@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-lehni-bestie-2d11262",
-  "revision": "2d11262",
+  "identifier": "kratochvil-lehni-bestie-34172c8",
+  "revision": "34172c8",
   "readingOrder": [
     "promo.html",
     "lehni_bestie_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Aug 09 2022 09:06:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1660035995362
+    "date": "Thu Sep 29 2022 21:27:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486859670
   },
   "documents": [
     {
@@ -101,7 +101,7 @@
       "title": "TAM",
       "file": "lehni_bestie_009.html",
       "words": 11593,
-      "chars": 68132,
+      "chars": 68133,
       "ideas": 183,
       "role": "chapter",
       "order": 4,
@@ -140,9 +140,9 @@
     {
       "title": "ZDE",
       "file": "lehni_bestie_013.html",
-      "words": 7022,
-      "chars": 41652,
-      "ideas": 124,
+      "words": 7021,
+      "chars": 41659,
+      "ideas": 123,
       "role": "chapter",
       "order": 6,
       "prev": "lehni_bestie_011.html",
@@ -161,7 +161,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 140,
-      "chars": 905,
+      "chars": 906,
       "ideas": 17,
       "role": "about",
       "order": null,
@@ -180,14 +180,14 @@
   ],
   "totals": {
     "all": {
-      "words": 33500,
-      "chars": 197437,
-      "ideas": 561
+      "words": 33499,
+      "chars": 197446,
+      "ideas": 560
     },
     "chapters": {
-      "words": 33354,
-      "chars": 196492,
-      "ideas": 540
+      "words": 33353,
+      "chars": 196500,
+      "ideas": 539
     }
   }
 }
