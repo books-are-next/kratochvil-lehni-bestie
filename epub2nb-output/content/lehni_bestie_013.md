@@ -267,5 +267,9 @@ Sedím na druhém konci zahradní restaurace, pod krkem po starosvětsku lněný
 Dojím, sundám ubrousek a drbnu pod stolem do malé psí mrchy (vstávej, bestie!) a už se zas loudám kolem zaparkovaného taxíku (který tu čeká na Franklina Jonese) nahoru k zastávce tramvaje a malá fenka běží za mnou a z tlamy jí visí můj potřísněný ubrousek.
 
 * * *
-[^2]: Každému je určen jeho den. _Pozn. red._[^3] Citát z Nezvalova překladu Rimbaudovy básně _Román_. _Pozn. autora._
+
+[^2]: Každému je určen jeho den. _Pozn. red._
+
+[^3]: Citát z Nezvalova překladu Rimbaudovy básně _Román_. _Pozn. autora._
+
 </section>

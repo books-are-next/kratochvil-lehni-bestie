@@ -631,5 +631,7 @@ Velmistr mě vzal za loket a odvedl kousek mezi stromy a tam mě usadil v kab
 Vůz (nejspíš kamion) se dal do pohybu a za svými zády jsme nechali Studnu, v níž jsme prožili nejvýznamnější část svých životů a vyučili se v krátku tak tuhé disciplíně, že nikdo z dětí v kamionu by si teď ani za prase nesundal šátek z očí, přestože musely vědět, že během jízdy není nad nimi žádný dohled. Opouštěli jsme Studnu, ale ve skutečnosti jsme si ji vezli s sebou. A ze srdcí nám už ji nikdo nikdy nevytrhá.
 
 * * *
+
 [^1]: V textu parafráze několika vět z románu Jerzyho Andrzejewského _Brány ráje_. _Pozn. autora_.
+
 </section>
