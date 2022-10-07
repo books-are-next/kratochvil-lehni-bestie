@@ -8,8 +8,8 @@
   "edition": "Beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kratochvil-lehni-bestie-d778598",
-  "revision": "d778598",
+  "identifier": "kratochvil-lehni-bestie-d5d89d4",
+  "revision": "d5d89d4",
   "readingOrder": [
     "promo.html",
     "lehni_bestie_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 22:57:15 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924235874
+    "date": "Fri Oct 07 2022 13:51:31 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150691608
   },
   "documents": [
     {
