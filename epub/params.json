@@ -9,7 +9,8 @@
       "modified": "2021-06-29T00:00:00.000Z",
       "contentType": "prose",
       "publisherShort": "mkp",
-      "edition": "Beletrie"
+      "edition": "Beletrie",
+      "isbn": "978-80-274-2835-9"
     },
     "elements": {
       "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
@@ -37,6 +38,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "lehni_bestie_001.md",
@@ -96,8 +98,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Citáty "
+            "title": "Citáty ",
+            "children": []
           },
           {
             "filename": "lehni_bestie_006.md",
@@ -109,8 +111,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "lehni_bestie_007.md",
@@ -122,8 +124,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předtím"
+            "title": "Předtím",
+            "children": []
           },
           {
             "filename": "lehni_bestie_008.md",
@@ -147,8 +149,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Tam"
+            "title": "Tam",
+            "children": []
           },
           {
             "filename": "lehni_bestie_010.md",
@@ -172,8 +174,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Potom"
+            "title": "Potom",
+            "children": []
           },
           {
             "filename": "lehni_bestie_012.md",
@@ -197,8 +199,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Zde"
+            "title": "Zde",
+            "children": []
           },
           {
             "filename": "lehni_bestie_014.md",
@@ -224,8 +226,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -412,6 +413,6 @@
       "user": "books-are-next",
       "repo": "kratochvil-lehni-bestie"
     },
-    "generatedAt": 1658413642340
+    "generatedAt": 1665415627693
   }
 }
