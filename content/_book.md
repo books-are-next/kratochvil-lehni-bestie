@@ -13,6 +13,7 @@ meta:
   contentType: prose
   publisherShort: mkp
   edition: Beletrie
+  isbn: 978-80-274-2835-9
 readingOrder:
   - promo.html
   - lehni_bestie_005.html
